@@ -1,6 +1,6 @@
 {
   "name": "fs-constants",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Require constants across node and the browser",
   "main": "index.js",
   "browser": "browser.js",
